@@ -1,14 +1,19 @@
 {
     "BIDSVersion": "1.10.0",
-    "License": "For development and tests only. Not suitable for any other purposes.",
+    "License": "CC0",
     "Name": "Exceptional brain PET images from the NeuroEXPLORER: scans with targeted radiopharmaceuticals and comparison to HRRT",
-    "Authors": [        "Tommaso Volpi",
-        "Richard E. Carson"],
+    "Authors": [
+        "Tommaso Volpi",
+        "Richard E. Carson"
+    ],
     "Acknowledgements": "This work was supported by the NIH BRAIN Initiative Grant U01EB029811",
     "HowToAckknowledge": "???",
-    "Funding": ["U01EB029811"],
+    "Funding": [
+        "U01EB029811"
+    ],
     "DatasetType": "raw",
-    "GeneratedBy": [        {
+    "GeneratedBy": [
+        {
             "Name": "Jean-Dominique Gallezot",
             "Description": "Yale PET Center"
         },
@@ -21,6 +26,8 @@
             "Name": "mideface",
             "Version": "7.4.1",
             "Description": "FreeSurFer 7.4.1 defacing tool"
-        }],
-    "DatasetDOI": ""
+        }
+    ],
+    "DatasetDOI": "",
+    "HowToAcknowledge": "CITE: Volpi T, Toyonaga T, Khattar N, Gallezot JD, Naganawa M, Vanderlinden G, Honhar P, Zeng T, Fontaine K, Mulnix T, Hu L, Sun X, Henry S, Matuskey D, Radhakrishnan R, Guo L, Hu Y, Zhang J, Zheng X, Nabulsi N, Huang Y, Badawi RD, Cherry SR, Hillmer AT, Jones T, Liu C, Morris E, Qi J, Li H, Carson RE. Exceptional brain PET images from the NeuroEXPLORER: scans with targeted radiopharmaceuticals and comparison to HRRT. Eur J Nucl Med Mol Imaging. 2025 Nov 3. https://10.1007/s00259-025-07605-4. Epub ahead of print. PMID: 41177836."
 }
