@@ -2,7 +2,17 @@
     "species": {
         "Description": "species of the participant"
     },
-	"pathology": {
+    "pathology": {
         "Description": "pathology group to which the participant was assigned"
+    },
+    "participant_id": {
+        "Description": "",
+        "Annotations": {
+            "IsAbout": {
+                "TermURL": "nb:ParticipantID",
+                "Label": "Participant ID"
+            },
+            "VariableType": "Identifier"
+        }
     }
 }
